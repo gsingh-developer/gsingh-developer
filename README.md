@@ -1,4 +1,4 @@
-# 🚀 Gurjinder Singh  
+# Gurjinder Singh  
 ### Full Stack Developer | Building Scalable, Real-World Products  
 
 💡 *Turning complex problems into performant, user-friendly web applications.*
