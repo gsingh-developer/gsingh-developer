@@ -7,33 +7,44 @@
 
 ## 👨‍💻 About Me  
 
-I’m a **Full Stack Developer with 1.5+ years of experience** building production-grade applications across **SaaS, ERP, and real-time systems**.  
+Full Stack Developer with **1.5+ years of experience** building production-grade applications across **SaaS, ERP, and real-time systems**.  
 
-- ⚡ Built systems that **reduced analysis time by 40%**
-- 📈 Improved **user satisfaction by 15%**
-- 🔗 Integrated **6+ third-party APIs** into scalable platforms  
-- 🧠 Passionate about **clean architecture, performance, and real-time systems**
+- ⚡ Reduced data analysis time by **40%**  
+- 📈 Improved user satisfaction by **15%**  
+- 🔗 Integrated **6+ third-party APIs**  
+- 🧠 Focused on **scalable architecture & clean code**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 🚀 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+</p>
 
 ### ⚙️ Backend  
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="48"/>
+</p>
 
 ### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### 🧰 Tools & Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
+</p>
+
+### 📚 Currently Learning  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redis,nestjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="48"/>
+</p>
 
 ---
 
@@ -43,60 +54,55 @@ I’m a **Full Stack Developer with 1.5+ years of experience** building producti
 - Built with **Next.js**  
 - 📉 Reduced data analysis time by **40%**  
 - 📈 Increased user satisfaction by **15%**  
-- Interactive feature usage visualization  
 
 ---
 
 ### 💬 Real-Time Communication Platform  
 - Video/Audio calls, messaging, channels  
 - Built with **React + Socket.IO**  
-- 📅 Meeting scheduling + calendar workflows  
-- ⚡ Optimized performance via refactoring  
+- 📅 Meeting scheduling system  
+- ⚡ Performance optimized  
 
 ---
 
 ### 🏢 College ERP System  
-- Admissions, Roles & Permissions, Infrastructure modules  
-- Scalable architecture for large institutions  
+- Admissions, Roles & Permissions  
+- Infrastructure & workflow automation  
 
 ---
 
 ### 📈 Lead Management System  
 - Integrated APIs: Twilio, WhatsApp, Facebook, SendGrid  
-- Role-based dashboards & automation  
+- Role-based dashboards  
 
 ---
 
 ### 🍽️ Restaurant Management System  
 - QR-based ordering system  
-- Real-time updates using Socket.IO  
-- Offline-first support  
+- Real-time updates  
+- Offline-first architecture  
 
 ---
 
 ## 🏆 Achievements  
 
 - 🧩 Delivered **5+ production-grade applications independently**  
-- 🔗 Integrated **multiple third-party APIs into unified systems**  
-- ⚡ Built **offline-first apps**  
-- 🔄 Implemented **real-time communication systems**  
-
----
-
-## 📊 GitHub Stats  
-
-![Gurjinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- 🔗 Integrated multiple APIs into scalable systems  
+- ⚡ Built offline-first apps using IndexedDB  
+- 🔄 Implemented real-time systems with Socket.IO  
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/gurjinder-singh-a92a9b2b7  
-- 📧 Email: gurjinder.developer@gmail.com  
+<p align="left">
+  <a href="https://linkedin.com/in/gurjinder-singh-a92a9b2b7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:gurjinder.developer@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -106,5 +112,5 @@ I’m a **Full Stack Developer with 1.5+ years of experience** building producti
 while (true) {
   learn();
   build();
-  improve();
+  optimize();
 }
