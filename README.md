@@ -14,7 +14,11 @@ Full Stack Developer with **1.5+ years of experience** building production-grade
 - 🔗 Integrated **6+ third-party APIs**  
 - 🧠 Focused on **scalable architecture & clean code**  
 
----
+## 🌐 Portfolio  
+
+🚀 Explore my work and projects:  
+👉 https://me.gurjinderbuilds.live
+
 
 ## 🛠️ Tech Stack  
 
