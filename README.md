@@ -104,18 +104,6 @@ A fully automated blogging engine — AI generates and publishes a fresh post ev
 | 📦 **Offline-first** app | IndexedDB-powered state persistence for low-connectivity UX |
 | 🏗 **5+ production apps** | Independently shipped across SaaS, ERP, and communication domains |
 
----
-
-## 💼 Work Experience
-
-**⚡ ReactJs Developer @ [Capanicus Solutions](https://capanicus.com)** *(Dec 2025 – Present)*
-> Real-time communication platform — video/audio calls, messaging, meeting scheduling, email campaign analytics.
-
-**🧱 Full Stack Developer @ Sensation Software Solutions** *(Jul 2024 – Dec 2025)*
-> SaaS dashboards, College ERP (PCTE Group), Lead Management System, venue platform, business dashboards.
-
-**🌱 Software Developer Intern @ Sensation Software Solutions** *(Before Jul 2024)*
-> Multi-restaurant management platform with QR ordering, real-time order tracking via Socket.IO, analytics dashboards.
 
 *"Clean code. Fast interfaces. Real impact."*
 
