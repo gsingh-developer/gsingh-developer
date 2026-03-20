@@ -117,39 +117,6 @@ A fully automated blogging engine — AI generates and publishes a fresh post ev
 **🌱 Software Developer Intern @ Sensation Software Solutions** *(Before Jul 2024)*
 > Multi-restaurant management platform with QR ordering, real-time order tracking via Socket.IO, analytics dashboards.
 
----
-
-## 📚 Education
-
-🎓 **B.Tech — Computer Science Engineering** | Lyallpur Khalsa College of Engineering *(2020–2024)*
-> CGPA: **8.52 / 10**
-
-📋 **Higher Secondary Certificate (PCM)** | Punjab School Education Board *(2018–2020)*
-> Percentage: **94.4%**
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gurjinderbuilds&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2d9f3" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjinderbuilds&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2d9f3" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurjinderbuilds&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
 *"Clean code. Fast interfaces. Real impact."*
 
 </div>
